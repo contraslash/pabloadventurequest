@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Pablo Adventure Quest</string>
+    <string name="intructions">Instructions</string>
+    <string name="survival_mode">Survival Mode</string>
+    <string name="survival_mode_text">Be a survival! Play until you get wrong. Use the arrow to skip a question</string>
+    <string name="time_mode">Time Mode</string>
+    <string name="time_mode_text">Feel the adrenaline! Play against the clock. You have 60 seconds to answer everything you can</string>
+    <string name="standard_mode">Standard Mode</string>
+    <string name="standard_mode_text">Newbie? Start learning about Pablo answering 20 questions we have selected for you</string>
+    <string name="credits">Credits</string>
+    <string name="settings">Settings</string>
 </resources>

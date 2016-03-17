@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pablo Adventure Quest</string>
+    <string name="intructions">Instrucciones</string>
+    <string name="survival_mode">Modo Sobreviviente</string>
+    <string name="survival_mode_text">Sé un sobreviviente! Juega hasta que te equivoques. Utiliza la flecha para saltar una pregunta</string>
+    <string name="time_mode">Modo Reloj</string>
+    <string name="time_mode_text">Siente la adrenalina! Juega contra reloj. Tienes 60sg para responder todo lo que puedas.</string>
+    <string name="standard_mode">Modo Estándar</string>
+    <string name="standard_mode_text">Novato? Comienza a aprender sobre Pablo respondiendo 20 preguntas que hemos seleccionado para ti.</string>
+    <string name="credits">Créditos</string>
+    <string name="settings">Configuración</string>
+</resources>
