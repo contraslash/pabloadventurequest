@@ -1,0 +1,459 @@
+[
+  {
+    "pregunta": "¿De qué no se avergonzaba el apóstol Pablo?",
+    "a": "De ser Romano",
+    "b": "Del Evangelio",
+    "c": "De sus creencias",
+    "d": "De su linaje",
+    "correcta": "Del Evangelio"
+  },
+  {
+    "pregunta": "Pablo dice a los hermanos de Roma: ansío veros, para comunicaros algún  ¿Qué?",
+    "a": "Don espiritual",
+    "b": "Las buenas nuevas",
+    "c": "El don de sanación",
+    "d": "El evangelio eterno",
+    "correcta": "Don espiritual"
+  },
+  {
+    "pregunta": "Jactándose de ser sabios, se volvieron",
+    "a": "Tontos",
+    "b": "Inteligentes",
+    "c": "Mas sabios",
+    "d": "Necios",
+    "correcta": "Necios"
+  },
+  {
+    "pregunta": "De qué buena práctica habla Pablo refiriendose a Roma?",
+    "a": "Su alabanza",
+    "b": "Sus juegos",
+    "c": "Su fe",
+    "d": "Su comida",
+    "correcta": "Su fe"
+  },
+  {
+    "pregunta": "El judio se jacta de su ley, pero",
+    "a": "Roba",
+    "b": "Adultera",
+    "c": "Deshonra a Dios",
+    "d": "Comete sacrilegio",
+    "correcta": "Deshonra a Dios"
+  },
+  {
+    "pregunta": "La verdadera circunsición es la del",
+    "a": "Alma",
+    "b": "Mente",
+    "c": "Espíritu",
+    "d": "Corazón",
+    "correcta": "Corazón"
+  },
+  {
+    "pregunta": "Por las obras de la ley ninguno será justificado, ya que por la ley, conocemos",
+    "a": "La redención",
+    "b": "El pecado",
+    "c": "A Cristo",
+    "d": "La maldad",
+    "correcta": "El pecado"
+  },
+  {
+    "pregunta": "Los labios del impío son como veneno de ",
+    "a": "Cobra",
+    "b": "Víbora",
+    "c": "Cascabel",
+    "d": "Serpiente",
+    "correcta": "Víbora"
+  },
+  {
+    "pregunta": "Cuando se desvía de la Ley de Dios, se vuelve",
+    "a": "Inútil",
+    "b": "Pecador",
+    "c": "Impío",
+    "d": "Necio",
+    "correcta": "Inútil"
+  },
+  {
+    "pregunta": "La ley produce _____, Porque donde no hay Ley tampoco hay transgresión",
+    "a": "Pecado",
+    "b": "Ira",
+    "c": "Maldad",
+    "d": "Castigo",
+    "correcta": "Ira"
+  },
+  {
+    "pregunta": "Jesús era del linaje de",
+    "a": "David",
+    "b": "Nahum",
+    "c": "Joel",
+    "d": "Josías",
+    "correcta": "David"
+  },
+  {
+    "pregunta": "La ley está escrita en",
+    "a": "Nuestro corazón",
+    "b": "Nuestro pensamiento",
+    "c": "Nuestro caracter",
+    "d": "Nuestra ira",
+    "correcta": "Nuestro corazón"
+  },
+  {
+    "pregunta": "Jesús fue entregado por nuestros pecados y resucitado para nuestra",
+    "a": "redención",
+    "b": "salvación",
+    "c": "santidad",
+    "d": "justificación",
+    "correcta": "justificación"
+  },
+  {
+    "pregunta": "Por eso, Dios los entregó a la __________, debido a la concupiscencia de sus corazones, de modo que deshonraron sus propios cuerpos entre sí mismos",
+    "a": "perdición",
+    "b": "maldad",
+    "c": "inmundicia",
+    "d": "pasión",
+    "correcta": "inmundicia"
+  },
+  {
+    "pregunta": "la circuncisión aprovecha si:",
+    "a": "guardas aceptar el juicio de Dios",
+    "b": "guardas la gloria, honra y paz de Cristo",
+    "c": "guardas la Ley",
+    "d": "guardas el evangelio de Cristo",
+    "correcta": "guardas la Ley"
+  },
+  {
+    "pregunta": "La tribulación produce",
+    "a": "Paciencia",
+    "b": "Sabiduría",
+    "c": "Conciencia",
+    "d": "Amor a Dios",
+    "correcta": "Paciencia"
+  },
+  {
+    "pregunta": "nos da acceso por la fe, a una gracia, en la cual estamos firmes.",
+    "a": "Pablo",
+    "b": "Juan",
+    "c": "Jesucristo",
+    "d": "Gayo",
+    "correcta": "Jesucristo"
+  },
+  {
+    "pregunta": "Por la desobediencia de un hombre todos son constituidos",
+    "a": "Desobedientes",
+    "b": "Pecadores",
+    "c": "Incumplidores de la Ley",
+    "d": "Irrespetuosos",
+    "correcta": "Pecadores"
+  },
+  {
+    "pregunta": "Por la obediencia de uno, todos son constituidos",
+    "a": "Obedientes",
+    "b": "Guardadores de la ley",
+    "c": "Justos",
+    "d": "Santos",
+    "correcta": "Justos"
+  },
+  {
+    "pregunta": "La paga del pecado es",
+    "a": "Muerte",
+    "b": "Riqueza",
+    "c": "Poder",
+    "d": "Gloria",
+    "correcta": "Muerte"
+  },
+  {
+    "pregunta": "La dádiva de Dios es",
+    "a": "Perdón",
+    "b": "Salvación",
+    "c": "Sabiduría",
+    "d": "Vida eterna",
+    "correcta": "Vida eterna"
+  },
+  {
+    "pregunta": "Cuando llegó el Mandamiento, Pablo",
+    "a": "Fue Juzgado",
+    "b": "Vivió",
+    "c": "Murió",
+    "d": "Fue salgo",
+    "correcta": "Murió"
+  },
+  {
+    "pregunta": "La ley es",
+    "a": "Santo",
+    "b": "Justo",
+    "c": "Verdadero",
+    "d": "Todas las anteriores",
+    "correcta": "Todas las anteriores"
+  },
+  {
+    "pregunta": "Pablo no hace el bien que quiere sino",
+    "a": "El mal que odia",
+    "b": "El bien que no quiere",
+    "c": "El mal que no quiere",
+    "d": "El bien que quiere",
+    "correcta": "El mal que no quiere"
+  },
+  {
+    "pregunta": "Como intercede el espíritu Santo por nosotros?",
+    "a": "Delante del Padre",
+    "b": "En el santuario celestial",
+    "c": "Anotando en el libro de la vida",
+    "d": "Con gemidos indecibles",
+    "correcta": "Con gemidos indecibles"
+  },
+  {
+    "pregunta": "La muerte reinó desde Adán hasta",
+    "a": "Abrahán",
+    "b": "Jesús",
+    "c": "Noé",
+    "d": "Moises",
+    "correcta": "Jesús"
+  },
+  {
+    "pregunta": "Donde abundó la gracia, sobreabundó",
+    "a": "Santidad",
+    "b": "Justicia",
+    "c": "Sangre",
+    "d": "Gracia",
+    "correcta": "Gracia"
+  },
+  {
+    "pregunta": "Librados del pecado, viniste a ser siervos de la",
+    "a": "Gloria",
+    "b": "Santificación",
+    "c": "Santidad",
+    "d": "Jusicia",
+    "correcta": "Jusicia"
+  },
+  {
+    "pregunta": "Miserable de mi, quien me librará de este cuerpo de",
+    "a": "Perdición",
+    "b": "Maldad",
+    "c": "Pecado",
+    "d": "Muerte",
+    "correcta": "Muerte"
+  },
+
+  {
+    "pregunta": "Con la mente sirvo a Dios, pero con la _______ a la ley del pecado",
+    "a": "Mano",
+    "b": "Carne",
+    "c": "Sangre",
+    "d": "Justicia",
+    "correcta": "Carne"
+  },
+  {
+    "pregunta": "Ni lo _____ ni lo ______ ni ninguna otra cosa creada podrá separarnos del amor de Dios",
+    "a": "Animal - Inerte",
+    "b": "Mortal - Inmortal",
+    "c": "Alto - Bajo",
+    "d": "Alto - Profundo",
+    "correcta": "Alto - Bajo"
+  },
+  {
+    "pregunta": "A ______ amé y a _____ Aborrecí",
+    "a": "Abel - Caín",
+    "b": "Yahwév - Belcebú",
+    "c": "Jacob - Esaú",
+    "d": "David - Salomón",
+    "correcta": "Jacob - Esaú"
+  },
+  {
+    "pregunta": "He aquí pongo en Sión una",
+    "a": "Señal",
+    "b": "Evidencia",
+    "c": "Puerta",
+    "d": "Piedra",
+    "correcta": "Piedra"
+  },
+  {
+    "pregunta": "Así que la fe es por el oir, y el oir por la palabra de Dios",
+    "a": "Romanos 10:17",
+    "b": "Romanos 5:8",
+    "c": "Romanos 3:20",
+    "d": "Romanos 8:5",
+    "correcta": "Romanos 10:17"
+  },
+  {
+    "pregunta": "Qué árbol es mencionado en Romanos 11 y Romanos 3",
+    "a": "Líbano",
+    "b": "Olivo",
+    "c": "Higuera",
+    "d": "ZarzA",
+    "correcta": "Olivo"
+  },
+  {
+    "pregunta": "No pagueis a nadie",
+    "a": "Ojo por ojo",
+    "b": "Diente por diente",
+    "c": "Mal por mal",
+    "d": "Bien por bien",
+    "correcta": "Mal por mal"
+  },
+  {
+    "pregunta": "Qué profeta dijo: llamaré pueblo mío, al que no era mi pueblo; y amada a la no amada ",
+    "a": "Joel",
+    "b": "Isaías",
+    "c": "Oseas",
+    "d": "Nahum",
+    "correcta": "Oseas"
+  },
+  {
+    "pregunta": "saías dice: Aunque los israelitas sean tan numerosos como la arena del mar, sólo un _______ será salvo",
+    "a": "Santo",
+    "b": "Justo",
+    "c": "Judío",
+    "d": "Remanente",
+    "correcta": "Remanente"
+  },
+  {
+    "pregunta": "Todo el que invoque el nombre del Señor",
+    "a": "verá justicia",
+    "b": "será salvo",
+    "c": "vivirá eternamente",
+    "d": "habitará con él",
+    "correcta": "será salvo"
+  },
+  {
+    "pregunta": "¿Cómo invocarán a aquel en quien no han creído? ¿Y cómo creerán en aquel de quien no han oído? ¿Y cómo ______ sin haber quien les  _______ ?",
+    "a": "verán - muestre",
+    "b": "caminarán - guíe",
+    "c": "oirán - predique",
+    "d": "sentirán - toque",
+    "correcta": "oirán - predique"
+  },
+  {
+    "pregunta": "me he reservado ______ hombres, que no han doblado la rodilla a Baal",
+    "a": "3000",
+    "b": "5000",
+    "c": "7000",
+    "d": "12000",
+    "correcta": "7000"
+  },
+  {
+    "pregunta": "Así que hermanos, por la tierna misericordia de Dios, os ruego que presentéis vuestro cuerpo en sacrificio vivo, santo, agradable a Dios que es __________ __________ ______________ ",
+    "a": "vuestro Justo eterno",
+    "b": "vuestro hermano Mayor",
+    "c": "Perfecta Roca eterna",
+    "d": "vuestro Culto Espiritual",
+    "correcta": "vuestro Culto Espiritual"
+  },
+  {
+    "pregunta": "No seas vencido por el mal, sino que vence el mal con el",
+    "a": "Espíruto",
+    "b": "Señor",
+    "c": "Bien",
+    "d": "Juicio",
+    "correcta": "Bien"
+  },
+  {
+    "pregunta": "Vestíos del Señor Jesucristo y no satisfagais los deseos de",
+    "a": "La ley",
+    "b": "La carne",
+    "c": "El pecado",
+    "d": "El mal",
+    "correcta": "La carne"
+  },
+  {
+    "pregunta": "La ______ está avanzada y se acerca el _____",
+    "a": "Noche - Día",
+    "b": "Hora - Momento",
+    "c": "Verdad - Momento",
+    "d": "Hora - Tiempo",
+    "correcta": "Noche - Día"
+  },
+  {
+    "pregunta": "Tuvieron bien en hacer una colecta por los santos de Jerusalén",
+    "a": "Pérgamo y Tiatira",
+    "b": "Aquila y Priscila",
+    "c": "Macedonia y Acaya",
+    "d": "Dorcas y Eunicio",
+    "correcta": "Macedonia y Acaya"
+  },
+  {
+    "pregunta": "Todas las cosas que se escribieron antes, se escribieron para que tengamos",
+    "a": "Conocimiento",
+    "b": "Sabiduría",
+    "c": "Fe",
+    "d": "Esperanza",
+    "correcta": "Esperanza"
+  },
+  {
+    "pregunta": "Los colaboradores de Pablo",
+    "a": "Pérgamo y Tiatira",
+    "b": "Aquila y Priscila",
+    "c": "Macedonia y Acaya",
+    "d": "Dorcas y Eunicio",
+    "correcta": "Aquila y Priscila"
+  },
+  {
+    "pregunta": "Escribió Romanos",
+    "a": "Pablo",
+    "b": "Aquila",
+    "c": "Priscila",
+    "d": "Tercio",
+    "correcta": "Tercio"
+  },
+  {
+    "pregunta": "Son servidores de Dios para tu bien",
+    "a": "Jueces",
+    "b": "Gobernadores",
+    "c": "Magistrados",
+    "d": "Reyes",
+    "correcta": "Magistrados"
+  },
+  {
+    "pregunta": "Pagad a todos lo que debéis; al que tributo, tributo; al que ____________, ___________; al que respeto, respeto; al que honra, honra",
+    "a": "salario",
+    "b": "impuesto",
+    "c": "ofrenda",
+    "d": "bendición",
+    "correcta": "impuesto"
+  },
+  {
+    "pregunta": "El que come, no menosprecie al que no come; y el que no come, no ______________ al que no come;",
+    "a": "juzgue",
+    "b": "mire",
+    "c": "critique",
+    "d": "condene",
+    "correcta": "juzgue"
+  },
+  {
+    "pregunta": "Procuremos lo que contribuye a la __________ y a la mutua edificación",
+    "a": "paz",
+    "b": "reconciliación",
+    "c": "ley",
+    "d": "caridad",
+    "correcta": "paz"
+  },
+  {
+    "pregunta": "Espero veros a mi paso para ___________ para ser encaminado por vosotros allá",
+    "a": "Roma",
+    "b": "Jerusalén",
+    "c": "España",
+    "d": "Atenas",
+    "correcta": "España"
+  },
+  {
+    "pregunta": "Se que cuando vaya a vosotros llegaré con abundancia de la bendición del ________________ de Cristo",
+    "a": "juicio",
+    "b": "conocimiento",
+    "c": "evangelio",
+    "d": "sentimiento",
+    "correcta": "evangelio"
+  },
+  {
+    "pregunta": "Os recomiendo a Febe, nuestra hermana diaconisa de la iglesia de",
+    "a": "Acaya",
+    "b": "Cencrea",
+    "c": "Éfeso",
+    "d": "Filipos",
+    "correcta": "Cencrea"
+  },
+  {
+    "pregunta": "Os saluda Gayo, mi hospedador, y toda la iglesia. Os saluda  ________ tesorero de la ciudad y el hermano Cuarto",
+    "a": "Lucio",
+    "b": "Filemón",
+    "c": "Erasto",
+    "d": "Narciso",
+    "correcta": "Erasto"
+  }
+]

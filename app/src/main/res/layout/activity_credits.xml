@@ -19,6 +19,7 @@
             android:src="@drawable/logo_mini"
             android:scaleType="fitCenter"
             android:padding="10dp"
+            android:id="@+id/credits_home"
             />
 
         <TextView
@@ -36,6 +37,15 @@
         android:layout_below="@id/time_header"
         android:background="@color/blue"
         android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/credits_text"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            android:gravity="center"
+            />
 
 
 

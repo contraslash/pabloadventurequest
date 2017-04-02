@@ -1,3 +1,6 @@
 [submodule "app/src/main/java/com/contraslash/android/base"]
 	path = app/src/main/java/com/contraslash/android/base
 	url = http://git.contraslash.com/ma0/base-android
+[submodule "app/src/main/java/com/contraslash/android/db"]
+	path = app/src/main/java/com/contraslash/android/db
+	url = http://git.contraslash.com/ma0/db-android

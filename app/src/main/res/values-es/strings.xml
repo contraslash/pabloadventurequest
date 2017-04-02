@@ -10,4 +10,18 @@
     <string name="standard_mode_text">Novato? Comienza a aprender sobre Pablo respondiendo 20 preguntas que hemos seleccionado para ti.</string>
     <string name="credits">Créditos</string>
     <string name="settings">Configuración</string>
+
+    <string name="you_lost">Has perdido</string>
+    <string name="your_puntiation">Tu puntuación es: </string>
+    <string name="ok">Aceptar</string>
+
+    <string name="standard_number_questions">Cantidad de preguntas en Modo Estándar</string>
+    <string name="seconds_time">Segundos a jugar en el Modo Tiempo</string>
+    <string name="save">Guardar</string>
+
+    <string name="credits_text">
+        Preguntas: Pastor Oskar Jairo Gonzalez\n\n
+        Diseño de aplicación: Raquel Salcedo\n\n
+        Programación de la aplicación: Mauricio Collazos\n\n
+    </string>
 </resources>

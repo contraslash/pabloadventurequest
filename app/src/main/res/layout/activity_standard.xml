@@ -18,6 +18,7 @@
             android:src="@drawable/home"
             android:scaleType="fitCenter"
             android:padding="10dp"
+            android:id="@+id/standard_home"
             />
         <ImageButton
             android:layout_width="0dp"
@@ -36,6 +37,7 @@
             android:text="0"
             android:textColor="@color/white"
             android:textSize="24sp"
+            android:id="@+id/standard_points"
             />
     </LinearLayout>
     <RelativeLayout
@@ -50,9 +52,11 @@
             android:layout_alignParentRight="true"
             android:layout_alignParentTop="true"
             android:background="@color/purple"
-            android:text="20/20"
+            android:text="1/20"
             android:textColor="@color/white"
-            android:textSize="24sp"/>
+            android:textSize="24sp"
+            android:id="@+id/standard_number"
+            />
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -100,7 +104,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerInParent="true"
-
+                android:id="@+id/standard_question"
                 />
         </RelativeLayout>
 
